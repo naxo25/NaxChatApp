@@ -1,0 +1,1 @@
+self.addEventListener("push",(t=>{const s=t.data.json();self.registration.showNotification(s.title,{body:s.message,icon:s.img_thumb})}));

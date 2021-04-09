@@ -83,7 +83,7 @@ npx web-push generate-vapid-keys
 ## Github 📌
 
 Uso [GIT](https://git-scm.com/) para control de versiones.
-Puedes ver los comandos que uso [aqui](https://nacholabraweb.000webhostapp.com/tutoriales)
+Puedes ver los comandos que uso [aqui](https://nacholabraweb.000webhostapp.com/Tutoriales#/Github)
 
 Agradecimientos a github por tener este proyecto en la nube.
 

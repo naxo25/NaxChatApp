@@ -1,0 +1,42 @@
+{
+  "name": "naxchatapp",
+  "version": "1.36",
+  "description": "Red social multiplataforma",
+  "productName": "NaxChatApp",
+  "author": "Ignacio Labra",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "icons": "icongenie generate -i icon.png --skip-trim"
+  },
+  "dependencies": {
+    "@quasar/app": "^2.1.15",
+    "@quasar/extras": "^1.9.17",
+    "aws-sdk": "^2.820.0",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "firebase": "^8.0.2",
+    "quasar": "^1.15.4"
+  },
+  "devDependencies": {
+    "workbox-webpack-plugin": "^5.1.4"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "main": ".postcssrc.js",
+  "license": "ISC"
+}

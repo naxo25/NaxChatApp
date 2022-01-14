@@ -1,18 +1,19 @@
 # NaxChatApp
 
-Aplicación de chat de código multiplataforma (ios, android, windows, pwa). El diseño es para móvil.
-
-![](./public/NaxChatApp.gif)
+Aplicación de chat de código multiplataforma (ios, android, windows, pwa) hecha con vueJs, firebase, nodeJs, indexedDB, etc. El diseño es solo móvil.
 
 ### Funcionalidades
 
-* Enviar Chats con codificación para privacidad (solo puedes leer los mensajes dentro de la App).
-* Mandar gifs a través de la api GIPHY Developers.
-* Subir fotos de galería o cámara desde tu smartphone.
-* Notificaciones push en 2do plano desde service worker con api alojada en heroku con nodeJs y fcm send.
-* Lista de amigos agregados y solicitudes.
-* Imágenes redimensionadas a menor tamaño con librería ES6 de Js a tamaño thumbnails.
-* Mandar, recibir y borrar solicitudes de amistar con Email o Id de usuario.
+* Chats con codificación para privacidad.
+* Enviar gifs a través de la api GIPHY Developers.
+* Subir fotos de la galería o cámara de tu smartphone.
+* Recibe notificaciones push en 2do plano con fcm send y api alojada en heroku con nodeJs en versión pwa.
+* Lista de amigos y solicitudes, manda solicitudes de amistad con email o id de usuario.
+* Imágenes redimensionadas a menor tamaño con librería redimJs a tamaño thumbnails.
+* Comportamiento offline con indexedDB y cache manejado por service worker.
+
+#
+![](./public/NaxChatApp.gif)
 
 ### Pwa
 

@@ -1,6 +1,6 @@
 # NaxChatApp
 
-Aplicación de chat de código multiplataforma (ios, android, windows, pwa) hecha con vueJs, firebase, nodeJs, indexedDB, etc. El diseño es solo móvil.
+Aplicación de chat de código multiplataforma.
 
 ### Funcionalidades
 

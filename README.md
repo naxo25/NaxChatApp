@@ -1,16 +1,15 @@
 # NaxChatApp
 
-Aplicación de chat de código multiplataforma.
-
-### Funcionalidades
-
-* Chats con codificación para privacidad.
-* Enviar gifs a través de la api GIPHY Developers.
-* Subir fotos de la galería o cámara de tu smartphone.
+* Aplicación de código multiplataforma.
+* Facil de instalar en tu celular desde la página web a través de un toast.
+* Comportamiento offline con indexedDB y cache manejado por service worker.
 * Recibe notificaciones push en 2do plano con fcm send y api alojada en heroku con nodeJs en versión pwa.
+* Chats codificados para privacidad.
+* Envia gifs a través de la api GIPHY Developers.
+* Subir fotos de la galería o cámara de tu smartphone.
 * Lista de amigos y solicitudes, manda solicitudes de amistad con email o id de usuario.
 * Imágenes redimensionadas a menor tamaño con librería redimJs a tamaño thumbnails.
-* Comportamiento offline con indexedDB y cache manejado por service worker.
+* Comparte la aplicación con tus amigos!
 
 #
 ![](./public/NaxChatApp.gif)

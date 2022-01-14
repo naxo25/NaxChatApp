@@ -1,6 +1,7 @@
 # NaxChatApp
 
-* Aplicación de código multiplataforma.
+Aplicación de código multiplataforma.
+
 * Facil de instalar en tu celular desde la página web a través de un toast.
 * Comportamiento offline con indexedDB y cache manejado por service worker.
 * Recibe notificaciones push en 2do plano con fcm send y api alojada en heroku con nodeJs en versión pwa.

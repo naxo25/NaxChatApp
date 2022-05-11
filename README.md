@@ -22,7 +22,7 @@
 
 ### Android
 
-[Capacitor](./dist/Android/naxChat_Capacitor_1.4.apk) | [Cordova ](./dist/Android/naxChat_Cordova_1.36.apk)
+[Capacitor](./dist/Android/naxChat_Capacitor_1.5.2.apk) | [Cordova ](./dist/Android/naxChat_Cordova_1.36.apk)
 
 ### Pre-requisitos 📋
 
